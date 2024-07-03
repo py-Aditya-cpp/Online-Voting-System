@@ -1,0 +1,1 @@
+This online voting system is a mini project in C
